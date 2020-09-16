@@ -3,6 +3,6 @@
 3. My goal is to grow and further improve my IT skills.
 4. Skills: JS, CSS, HTML, Git, PS Photoshop.
 5. Code Example
-6.
+6. 
 7. 
-8. English: B1
+8. A2+, but I am improving my English with online courses.
