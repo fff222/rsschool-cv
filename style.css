@@ -27,4 +27,8 @@ img {
     font-weight: normal;
     margin: 10px;
 }
+#code {
+    font-weight: lighter;
+    padding: 5px;
+}
 </style>
